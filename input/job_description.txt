@@ -1,0 +1,24 @@
+Software Engineering Intern — Summer 2027
+
+We are looking for a Software Engineering Intern to join our team for Summer 2027.
+You will work alongside senior engineers to design, build, and ship features used
+by millions of users.
+
+Responsibilities:
+- Write clean, well-tested code in a collaborative environment
+- Participate in code reviews and design discussions
+- Debug and resolve issues across the stack
+- Collaborate with cross-functional teams (product, design, QA)
+
+Qualifications:
+- Currently pursuing a B.S. in Computer Science or related field
+- Experience with at least one general-purpose programming language (Python, Java, C++, etc.)
+- Familiarity with data structures, algorithms, and software design principles
+- Strong communication skills and ability to work in a team
+
+Nice to have:
+- Experience with full-stack web development
+- Exposure to machine learning or data-driven projects
+- Prior internship or project experience with real-world impact
+
+Replace this file with the actual job description you are applying to.
